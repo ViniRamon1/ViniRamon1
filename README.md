@@ -26,8 +26,5 @@ Sou um estudante de Ciência da Computação na UNIVERSIDADE FEDERAL DO CARIRI -
 </div>
   
   ##
-  
-<div>
-  
-  ![Snake animation](https://github.com/ViniRamon1/ViniRamon1/blob/output/github-contribution-grid-snake.svg)
+
 </div>
