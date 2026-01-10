@@ -1,5 +1,5 @@
 ### Olá, eu sou o Vinícius Ramon 👋
-Sou um estudante de Ciência da Computação na UNIVERSIDADE FEDERAL DO CARIRI - UFCA. Tenho 22 anos e moro em Juazeiro do Norte, Ceará, Brasil. Estou iniciando minha carreira como Desenvolvedor, busco aprimorar meus conhecimentos e aprender novas tecnologias.
+Sou um estudante de Ciência da Computação na UNIVERSIDADE FEDERAL DO CARIRI - UFCA. Tenho 24 anos e moro em Juazeiro do Norte, Ceará, Brasil. Estou iniciando minha carreira como Desenvolvedor, busco aprimorar meus conhecimentos e aprender novas tecnologias.
 
 <div align="center">
   <a href="https://github.com/ViniRamon1">
