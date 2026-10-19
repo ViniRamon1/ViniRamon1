@@ -19,12 +19,12 @@ const vinicius = {
   formacao: "Ciência da Computação — UFCA",
   local: "Juazeiro do Norte, CE 🇧🇷",
   diaADia: ["React", "NestJS", "TypeScript", "MongoDB", "PostgreSQL"],
-  focoAtual: ["arquitetura limpa", "testes e CI/CD", "produto educacional"],
+  focoAtual: ["arquitetura limpa", "testes e CI/CD", "segurança de APIs"],
   curiosidades: ["computação gráfica com OpenGL", "programação concorrente"],
 };
 ```
 
-Hoje trabalho na **BRISA** construindo o **Arbo Educa**, uma plataforma educacional com vestibular online, provas, correção, missões e eventos para escolas e cursinhos. Atuo de ponta a ponta: API em **NestJS + MongoDB**, front em **React + Chakra UI**, segurança, QA e deploy.
+Hoje trabalho na **BRISA** como desenvolvedor full stack, atuando de ponta a ponta: APIs em **NestJS + MongoDB**, front em **React + Chakra UI**, segurança, QA e deploy.
 
 ## 🛠️ Stack
 
@@ -42,7 +42,6 @@ Hoje trabalho na **BRISA** construindo o **Arbo Educa**, uma plataforma educacio
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| 🌳 **Arbo Educa** <sub>(trabalho)</sub> | Plataforma educacional: vestibular online, provas com envio automático, correção, missões, eventos e grupos de tutoria | React · Chakra UI · NestJS · MongoDB · AWS S3 |
 | 📊 **ProjectFlow** <sub>(em desenvolvimento)</sub> | Gerenciador de projetos colaborativo inspirado no MS Project: WBS, Gantt, dependências, recursos e linha de base | Next.js · NestJS · PostgreSQL |
 | 🎨 [**paint_opengl**](https://github.com/ViniRamon1/paint_opengl) | Editor gráfico 2D com criação, seleção, transformações geométricas e undo/redo | C · OpenGL · GLUT |
 | 🏎️ [**corrida3d_cg**](https://github.com/ViniRamon1/corrida3d_cg) | Jogo de corrida 3D feito para Computação Gráfica | C · OpenGL |
