@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Vin%C3%ADcius+Ramon+%F0%9F%91%8B;Full+Stack+Developer+na+BRISA;React+%C2%B7+NestJS+%C2%B7+TypeScript;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UFCA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+eu+sou+o+Vin%C3%ADcius+Ramon+%F0%9F%91%8B;Full+Stack+Developer+na+BRISA;C%23%2F.NET+%C2%B7+Java%2FSpring+%C2%B7+React%2FVue;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UFCA" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/viniramon1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,26 +15,45 @@
 
 ```ts
 const vinicius = {
-  cargo: "Full Stack Developer @ BRISA",
-  formacao: "Ciência da Computação — UFCA",
+  cargo: "Full Stack Developer @ BRISA Tecnologia",
+  formacao: "Ciência da Computação — UFCA (2021–2026)",
   local: "Juazeiro do Norte, CE 🇧🇷",
-  diaADia: ["React", "NestJS", "TypeScript", "MongoDB", "PostgreSQL"],
-  focoAtual: ["arquitetura limpa", "testes e CI/CD", "segurança de APIs"],
-  curiosidades: ["computação gráfica com OpenGL", "programação concorrente"],
+  backend: ["C# / ASP.NET Core", "Java / Spring Boot", "NestJS"],
+  frontend: ["React", "Vue.js", "PWA"],
+  dados: ["PostgreSQL", "SQL Server", "MongoDB", "Redis"],
+  cloud: ["AWS (S3, EC2, Cognito)", "Docker", "Azure DevOps", "GitHub Actions"],
+  idiomas: { portugues: "nativo", ingles: "intermediário" },
 };
 ```
 
-Hoje trabalho na **BRISA** como desenvolvedor full stack, atuando de ponta a ponta: APIs em **NestJS + MongoDB**, front em **React + Chakra UI**, segurança, QA e deploy.
+Desenvolvedor full stack com experiência em sistemas de médio e grande porte em produção. Meu foco é construir **APIs REST** em **C#/.NET** e **Java/Spring Boot**, com front em **React** e **Vue.js**, cuidando também de autenticação, performance, testes e deploy.
+
+## 💼 Experiência
+
+**Full Stack Developer — BRISA Tecnologia** · <sub>ago/2025 – atual</sub>
+
+- Sistema **LMS em C#/.NET 8** com arquitetura em camadas: editais com armazenamento no **AWS S3**, certificados em PDF renderizados no servidor e CRUD de projetos acadêmicos
+- **APIs em Spring Boot** com paginação via Specification, exportação CSV/XLSX e sincronização em lote de logs, além de módulos em **Vue.js** com filtros avançados e i18n
+- **PWAs em React/TypeScript** com atualização em tempo real via **WebSocket** e correções de compatibilidade com iOS
+- Testes **E2E com Playwright** integrados ao pipeline do **Azure DevOps**
+- Segurança no fluxo de autenticação: rate limit de OTP, proteção contra duplicatas no **AWS Cognito** e correção de vazamento de dados em notificações
+
+**Bolsista Desenvolvedor (PAP) — UFCA / CCSA** · <sub>2022 – 2023</sub>
+
+- Customização do **SIGAA (Java/JSF)** e consultas SQL otimizadas para indicadores acadêmicos (evasão, retenção e taxa de sucesso)
+- Ambientes **Docker** e builds com Maven e Gradle, em parceria com a DTI da UFCA
+
+**Extracurricular:** comissão organizadora da **SECOMP UFCA** (Semana da Computação)
 
 ## 🛠️ Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,html,css,sass&theme=dark" alt="Front e Node"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,nestjs,ts,js,python,c,php&theme=dark" alt="Linguagens e back-end"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,c&theme=dark" alt="Outras linguagens"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,bootstrap,jquery&theme=dark" alt="Front-end"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,azure,aws,githubactions,git,linux&theme=dark" alt="Dados e DevOps"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,docker,aws,azure,githubactions,git,postman,jest&theme=dark" alt="Dados, cloud e ferramentas"/>
   </a>
 </p>
 
@@ -42,7 +61,7 @@ Hoje trabalho na **BRISA** como desenvolvedor full stack, atuando de ponta a pon
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| 📊 **ProjectFlow** <sub>(em desenvolvimento)</sub> | Gerenciador de projetos colaborativo inspirado no MS Project: WBS, Gantt, dependências, recursos e linha de base | Next.js · NestJS · PostgreSQL |
+| 📊 **ProjectFlow** <sub>(privado)</sub> | Gerenciador de projetos inspirado no MS Project, em monorepo Turborepo: WBS hierárquica, Gantt em Canvas com zoom e baselines, dependências FS/SS/FF/SF, RBAC multiprojeto e notificações em tempo real | Next.js 14 · NestJS · PostgreSQL · Prisma · Redis · WebSocket |
 | 🎨 [**paint_opengl**](https://github.com/ViniRamon1/paint_opengl) | Editor gráfico 2D com criação, seleção, transformações geométricas e undo/redo | C · OpenGL · GLUT |
 | 🏎️ [**corrida3d_cg**](https://github.com/ViniRamon1/corrida3d_cg) | Jogo de corrida 3D feito para Computação Gráfica | C · OpenGL |
 | 🧠 [**CPX**](https://github.com/ViniRamon1/CPX) | Processador de 16 bits baseado em MIPS, montado no Logisim | Assembly · Logisim |
